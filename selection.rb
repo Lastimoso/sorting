@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'benchmark'
-
 class SelectionSort
   attr_reader :array, :max_iterations
 
